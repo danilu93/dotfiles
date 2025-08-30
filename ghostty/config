@@ -1,0 +1,50 @@
+#background = 1c2021
+theme = "Sakura"
+
+keybind = ctrl+r=reload_config
+keybind = ctrl+up=new_split:up
+keybind = ctrl+down=new_split:down
+keybind = ctrl+left=new_split:left
+keybind = ctrl+right=new_split:right
+
+font-family = "MesloLGS Nerd Font"
+font-size = 13
+term = xterm-256color
+
+font-family = "MesloLGS Nerd Font"
+font-size = 13
+term = xterm-256color
+
+font-family="MesloLGS Nerd Font"
+font-size=13
+term=xterm-256color
+
+font-family="MesloLGS Nerd Font"
+font-size=13
+term=xterm-256color
+
+font-family="MesloLGS Nerd Font"
+font-size=13
+term=xterm-256color
+
+background=#303446
+foreground=#c6d0f5
+cursor-color=#ffbde6
+
+palette=0=#303446
+palette=1=#f28fad
+palette=2=#a6da95
+palette=3=#ffe5b9
+palette=4=#96cdfb
+palette=5=#c6a0f6
+palette=6=#8bd5ca
+palette=7=#c6d0f5
+palette=8=#5c5f77
+palette=9=#ffb7c5
+palette=10=#b8f5b0
+palette=11=#ffe8a1
+palette=12=#a3cfff
+palette=13=#e1acff
+palette=14=#b5fff7
+palette=15=#ffffff
+
